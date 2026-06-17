@@ -256,7 +256,7 @@ This dashboard helps stakeholders:
 
 # 👨‍💻 Author
 
-**Chowdri Furkhan**
+**Ayaan Pasha**
 
 Aspiring Data Analyst | AI/ML Engineer | Power BI Developer
 
