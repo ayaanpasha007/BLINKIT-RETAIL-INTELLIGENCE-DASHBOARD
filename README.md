@@ -170,7 +170,9 @@ Provide a complete comparison of all KPIs across outlet types.
 
 ### Visualization Used
 - Matrix Table
+Dashboard View
 
+Screenshot 2026-06-17 221526.png
 ---
 
 # 🛠️ Tools & Technologies Used
